@@ -1,0 +1,4 @@
+*/*.pickle
+convert_db.py
+.secrets
+.env
